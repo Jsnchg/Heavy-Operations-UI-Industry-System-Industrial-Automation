@@ -1,0 +1,19 @@
+Heavy-Operations-UI-Industry-System-IA-GCS 
+BOM6
+
+A.General Control System
+1. AC
+2. NCP1681
+3. NUF8410
+4. NCD98011
+5. NCP51530
+6. CRE1S0505DC
+7. NMOS
+8. 8080
+9. CAT24M01
+10. NCP303
+11. NCV7754
+12. NCV7721
+
+Note:
+Component 6 is an extra component to make it my own
